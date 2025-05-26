@@ -1,0 +1,3 @@
+Day la file nam trong thu muc res/raw.
+123
+456
